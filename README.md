@@ -4,6 +4,7 @@
 ## 📑 Sobre o repositório
 
 Este repositório tem o objetivo de compilar todos os documentos, códigos, apresentações..., para o desenvolvimento do projeto Simulador de Computador, jogo que faz parte do trabalho da disciplina Laboratório de Iniciação à Computação.
+
 ---
 
 ## O que é o Simulador de Computador?
