@@ -1,4 +1,4 @@
-# Jogo Scratch
+# COMPUTER SIMULATOR
 ---
 
 ## 📑 Sobre o repositório
