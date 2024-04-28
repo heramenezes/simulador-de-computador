@@ -9,7 +9,7 @@ Este repositório tem o objetivo de compilar todos os documentos, sons, imagens.
 
 ## 💻 O que é o Simulador de Computador?
 
-Simulador de Computador é um projeto que tenta simular a interface de um PC, contando com tres interações possíveis: uma calculadora, um Paint-like e um jogo click de coletar moedinhas. O objetivo do projeto não é explorar em si as interações, mas tentar interpretar a interface de um computador por meio do Scratch.
+Simulador de Computador é um projeto que tenta simular a interface de um PC, contando com três interações possíveis: uma calculadora, um Paint-like e um jogo click de coletar moedinhas. O objetivo do projeto não é explorar em si as interações, mas tentar reinterpretar a interface de um sistema computacional por meio do Scratch.
 
 ---
 
