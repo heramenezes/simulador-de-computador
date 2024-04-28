@@ -13,4 +13,6 @@ Simulador de Computador é um projeto que tenta simular a interface de um PC, co
 
 ---
 
+## Link para o projeto no Scratch
 
+https://scratch.mit.edu/projects/988336380/
