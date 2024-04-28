@@ -1,4 +1,4 @@
-# COMPUTER SIMULATOR
+# Simulador de Computador
 ---
 
 ## 📑 Sobre o repositório
